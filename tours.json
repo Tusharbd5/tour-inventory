@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Coxs-Bazar 3 Days",
+        "contact": "01716565655",
+        "address": "Mirpur-2, Dhaka-1216",
+        "image": "www.ggg.com",
+        "description": "The coxs bazar tour is a great and memorable tour for every people who has visited the selected place of the coxs-bazar sea beach.",
+        "price": 5000,
+        "status": "Online"
+    },
+    {
+        "name": "Sazek Valley",
+        "contact": "01210556660",
+        "address": "Satkhira sadar, Khulna",
+        "image": "www.img.com",
+        "description": "The Sajek valley tour is a great and memorable tour for every people who has visited the selected place of the big Sajek valley.",
+        "price": 3000,
+        "status": "Online",
+        "view": 0
+    },
+    {
+        "name": "Rangamati Tour for 5 Days",
+        "contact": "01815605040",
+        "address": "Magura, Jeshore, Khulna",
+        "image": "www.rangamati.com",
+        "description": "The Rangamati tour is a great and memorable tour for every people who has visited the selected place of the kaptai lake and hills.",
+        "price": 1500,
+        "status": "Offline",
+        "view": 0
+    }
+]
