@@ -2,6 +2,8 @@ const Tour = require("../models/Tour");
 
 exports.getAllTourService = async (query) => {
     const tours = await Tour.find({})
+        .skip(query.skip)
+        .limit(query.limit)
         .sort(query.sortBy)
         .select(query.fields);
     return tours;
